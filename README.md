@@ -3,6 +3,8 @@
 
 A deleteStream for LevelUp.
 
+[![build status](https://secure.travis-ci.org/juliangruber/level-delete-stream.png)](http://travis-ci.org/juliangruber/level-delete-stream)
+
 ## Example
 
 Wipe a LevelDB in a streaming fashion by piping a keyStream to a deleteStream!
