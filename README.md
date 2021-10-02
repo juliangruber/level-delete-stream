@@ -1,7 +1,7 @@
 
 # level-delete-stream
 
-A deleteStream for LevelUp.
+A deleteStream for LevelUp. **Note:** `level(up)` and friends now have a builtin & much faster alternative: [`db.clear()`](https://github.com/Level/level#dbclearoptions-callback).
 
 [![build status](https://secure.travis-ci.org/juliangruber/level-delete-stream.png)](http://travis-ci.org/juliangruber/level-delete-stream)
 
